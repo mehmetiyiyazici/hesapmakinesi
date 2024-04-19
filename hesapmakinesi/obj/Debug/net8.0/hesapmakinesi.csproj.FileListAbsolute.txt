@@ -1,0 +1,14 @@
+/Users/mehmetiyiyazici/Documents/works/hesapmakinesi/bin/Debug/net8.0/hesapmakinesi
+/Users/mehmetiyiyazici/Documents/works/hesapmakinesi/bin/Debug/net8.0/hesapmakinesi.deps.json
+/Users/mehmetiyiyazici/Documents/works/hesapmakinesi/bin/Debug/net8.0/hesapmakinesi.runtimeconfig.json
+/Users/mehmetiyiyazici/Documents/works/hesapmakinesi/bin/Debug/net8.0/hesapmakinesi.dll
+/Users/mehmetiyiyazici/Documents/works/hesapmakinesi/bin/Debug/net8.0/hesapmakinesi.pdb
+/Users/mehmetiyiyazici/Documents/works/hesapmakinesi/obj/Debug/net8.0/hesapmakinesi.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mehmetiyiyazici/Documents/works/hesapmakinesi/obj/Debug/net8.0/hesapmakinesi.AssemblyInfoInputs.cache
+/Users/mehmetiyiyazici/Documents/works/hesapmakinesi/obj/Debug/net8.0/hesapmakinesi.AssemblyInfo.cs
+/Users/mehmetiyiyazici/Documents/works/hesapmakinesi/obj/Debug/net8.0/hesapmakinesi.csproj.CoreCompileInputs.cache
+/Users/mehmetiyiyazici/Documents/works/hesapmakinesi/obj/Debug/net8.0/hesapmakinesi.dll
+/Users/mehmetiyiyazici/Documents/works/hesapmakinesi/obj/Debug/net8.0/refint/hesapmakinesi.dll
+/Users/mehmetiyiyazici/Documents/works/hesapmakinesi/obj/Debug/net8.0/hesapmakinesi.pdb
+/Users/mehmetiyiyazici/Documents/works/hesapmakinesi/obj/Debug/net8.0/hesapmakinesi.genruntimeconfig.cache
+/Users/mehmetiyiyazici/Documents/works/hesapmakinesi/obj/Debug/net8.0/ref/hesapmakinesi.dll
