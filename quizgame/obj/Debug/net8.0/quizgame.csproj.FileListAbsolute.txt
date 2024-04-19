@@ -1,0 +1,14 @@
+/Users/mehmetiyiyazici/Documents/works/quizgame/bin/Debug/net8.0/quizgame
+/Users/mehmetiyiyazici/Documents/works/quizgame/bin/Debug/net8.0/quizgame.deps.json
+/Users/mehmetiyiyazici/Documents/works/quizgame/bin/Debug/net8.0/quizgame.runtimeconfig.json
+/Users/mehmetiyiyazici/Documents/works/quizgame/bin/Debug/net8.0/quizgame.dll
+/Users/mehmetiyiyazici/Documents/works/quizgame/bin/Debug/net8.0/quizgame.pdb
+/Users/mehmetiyiyazici/Documents/works/quizgame/obj/Debug/net8.0/quizgame.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mehmetiyiyazici/Documents/works/quizgame/obj/Debug/net8.0/quizgame.AssemblyInfoInputs.cache
+/Users/mehmetiyiyazici/Documents/works/quizgame/obj/Debug/net8.0/quizgame.AssemblyInfo.cs
+/Users/mehmetiyiyazici/Documents/works/quizgame/obj/Debug/net8.0/quizgame.csproj.CoreCompileInputs.cache
+/Users/mehmetiyiyazici/Documents/works/quizgame/obj/Debug/net8.0/quizgame.dll
+/Users/mehmetiyiyazici/Documents/works/quizgame/obj/Debug/net8.0/refint/quizgame.dll
+/Users/mehmetiyiyazici/Documents/works/quizgame/obj/Debug/net8.0/quizgame.pdb
+/Users/mehmetiyiyazici/Documents/works/quizgame/obj/Debug/net8.0/quizgame.genruntimeconfig.cache
+/Users/mehmetiyiyazici/Documents/works/quizgame/obj/Debug/net8.0/ref/quizgame.dll

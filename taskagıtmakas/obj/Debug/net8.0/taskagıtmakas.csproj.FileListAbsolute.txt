@@ -1,0 +1,14 @@
+/Users/mehmetiyiyazici/Documents/works/taskagıtmakas/bin/Debug/net8.0/taskagıtmakas
+/Users/mehmetiyiyazici/Documents/works/taskagıtmakas/bin/Debug/net8.0/taskagıtmakas.deps.json
+/Users/mehmetiyiyazici/Documents/works/taskagıtmakas/bin/Debug/net8.0/taskagıtmakas.runtimeconfig.json
+/Users/mehmetiyiyazici/Documents/works/taskagıtmakas/bin/Debug/net8.0/taskagıtmakas.dll
+/Users/mehmetiyiyazici/Documents/works/taskagıtmakas/bin/Debug/net8.0/taskagıtmakas.pdb
+/Users/mehmetiyiyazici/Documents/works/taskagıtmakas/obj/Debug/net8.0/taskagıtmakas.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mehmetiyiyazici/Documents/works/taskagıtmakas/obj/Debug/net8.0/taskagıtmakas.AssemblyInfoInputs.cache
+/Users/mehmetiyiyazici/Documents/works/taskagıtmakas/obj/Debug/net8.0/taskagıtmakas.AssemblyInfo.cs
+/Users/mehmetiyiyazici/Documents/works/taskagıtmakas/obj/Debug/net8.0/taskagıtmakas.csproj.CoreCompileInputs.cache
+/Users/mehmetiyiyazici/Documents/works/taskagıtmakas/obj/Debug/net8.0/taskagıtmakas.dll
+/Users/mehmetiyiyazici/Documents/works/taskagıtmakas/obj/Debug/net8.0/refint/taskagıtmakas.dll
+/Users/mehmetiyiyazici/Documents/works/taskagıtmakas/obj/Debug/net8.0/taskagıtmakas.pdb
+/Users/mehmetiyiyazici/Documents/works/taskagıtmakas/obj/Debug/net8.0/taskagıtmakas.genruntimeconfig.cache
+/Users/mehmetiyiyazici/Documents/works/taskagıtmakas/obj/Debug/net8.0/ref/taskagıtmakas.dll
