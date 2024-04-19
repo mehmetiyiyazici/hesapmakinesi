@@ -1,0 +1,14 @@
+/Users/mehmetiyiyazici/Documents/works/paraustu/bin/Debug/net8.0/paraustu
+/Users/mehmetiyiyazici/Documents/works/paraustu/bin/Debug/net8.0/paraustu.deps.json
+/Users/mehmetiyiyazici/Documents/works/paraustu/bin/Debug/net8.0/paraustu.runtimeconfig.json
+/Users/mehmetiyiyazici/Documents/works/paraustu/bin/Debug/net8.0/paraustu.dll
+/Users/mehmetiyiyazici/Documents/works/paraustu/bin/Debug/net8.0/paraustu.pdb
+/Users/mehmetiyiyazici/Documents/works/paraustu/obj/Debug/net8.0/paraustu.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mehmetiyiyazici/Documents/works/paraustu/obj/Debug/net8.0/paraustu.AssemblyInfoInputs.cache
+/Users/mehmetiyiyazici/Documents/works/paraustu/obj/Debug/net8.0/paraustu.AssemblyInfo.cs
+/Users/mehmetiyiyazici/Documents/works/paraustu/obj/Debug/net8.0/paraustu.csproj.CoreCompileInputs.cache
+/Users/mehmetiyiyazici/Documents/works/paraustu/obj/Debug/net8.0/paraustu.dll
+/Users/mehmetiyiyazici/Documents/works/paraustu/obj/Debug/net8.0/refint/paraustu.dll
+/Users/mehmetiyiyazici/Documents/works/paraustu/obj/Debug/net8.0/paraustu.pdb
+/Users/mehmetiyiyazici/Documents/works/paraustu/obj/Debug/net8.0/paraustu.genruntimeconfig.cache
+/Users/mehmetiyiyazici/Documents/works/paraustu/obj/Debug/net8.0/ref/paraustu.dll
